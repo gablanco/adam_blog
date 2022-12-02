@@ -39,6 +39,7 @@ paginate_path: /page:num/
 
 # Build settings
 markdown: kramdown
+remote_theme: adam_blog
 
 plugins:
   - jekyll-paginate
